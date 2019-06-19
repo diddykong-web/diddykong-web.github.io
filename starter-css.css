@@ -1,0 +1,17 @@
+h1 {
+    color: rgb(255, 0, 55);
+    font-size: 150px;
+    font-weight: 900;
+    background-image: url(./img/ferrari_fav.jpeg);
+
+}
+
+h2 {
+    color: greenyellow;
+    font-size: 70px;
+    font-weight: 900;
+} 
+body {
+    background-color: aqua; 
+
+}
